@@ -6,3 +6,4 @@
 - [report_original](./report_original.json)
 - [report_event10](./report_event10.json)
 - [report_event10_11](./report_event10_11.json)
+- [report_add_center](./report_add_center.json)
