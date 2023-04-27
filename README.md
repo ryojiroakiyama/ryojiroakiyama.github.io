@@ -10,4 +10,3 @@
 - [report_geo_color_code](./report_geo_color_code.json)
 - [geojson_origin](./geojson_origin.json)
 - [geojson_custom](./geojson_custom.json)
-- 
