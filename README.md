@@ -8,3 +8,4 @@
 - [report_event10_11](./report_event10_11.json)
 - [report_add_center](./report_add_center.json)
 - [report_geo_color_code](./report_geo_color_code.json)
+- [custom_geojson](./custom_geojson.json)
