@@ -10,4 +10,4 @@
 - [report_geo_color_code](./report_geo_color_code.json)
 - [geojson_origin](./geojson_origin.json)
 - [geojson_custom](./geojson_custom.json)
-- [geojson_custom_only_swim](./geojson_custom_only_swim.json)
+- [geojson_custom_swim_bike](./geojson_custom_swim_bike.json)
